@@ -105,6 +105,10 @@ PRODUCT_PACKAGES += \
     ntfs-3g \
     mkntfs
 
+# PowerEventMgr
+PRODUCT_PACKAGES += \
+    PowerEventMgr
+
 # Stagefright FFMPEG plugin
 PRODUCT_PACKAGES += \
     libstagefright_soft_ffmpegadec \
