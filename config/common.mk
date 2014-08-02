@@ -109,9 +109,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PowerEventMgr
 
-# PerformanceControl
-    PerformanceControl
-
 # Stagefright FFMPEG plugin
 PRODUCT_PACKAGES += \
     libstagefright_soft_ffmpegadec \
