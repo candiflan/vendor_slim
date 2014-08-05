@@ -90,7 +90,8 @@ PRODUCT_PACKAGES += \
     SlimFileManager \
     LatinIME \
     BluetoothExt \
-    DashClock
+    DashClock \
+    OpenDelta
 
 # Extra tools
 PRODUCT_PACKAGES += \
