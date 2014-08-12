@@ -90,7 +90,8 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     DashClock \
-    OpenDelta
+    OpenDelta \
+    Apollo
 
 # Extra tools
 PRODUCT_PACKAGES += \
